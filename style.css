@@ -1,0 +1,116 @@
+body{
+    font-family: 'Teko', sans-serif;
+}
+h1{
+    font-size: 300%;
+}
+p{
+    font-size: 150%;
+}
+span{
+    color: greenyellow;
+}
+.half{
+    width: 50%;
+    padding: 5px;
+    padding-left: 100px;
+    background-image: url(Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.half2{
+    width: 50%;
+    padding: 5px;
+    padding-left: 100px;
+}
+.half img{
+    width: 80%;
+}
+.half2 img{
+    width: 80%;
+}
+.flexible-item{
+    display: flex;
+    margin: 100px;
+}
+.link{
+    text-decoration: none;
+    background: orange;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
+    background-image: linear-gradient(tomato,orange);
+    font-weight: 700
+}
+.background{
+    background-image: url(Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.gap{
+    margin-top: 50px;
+}
+.gap2{
+    margin-bottom: 80px;
+}
+.text{
+    text-align: center;
+}
+.line{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.allign{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 20px 40px grey;
+}
+.allign img{
+    width: 100%;
+}
+.extra-part{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.extra-part img{
+    width: 80%;
+}
+#color{
+    border: 10px solid;
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+}
+#color1{
+    border: 10px solid;
+    border-image: linear-gradient(purple,cyan);
+    border-image-slice: 1;
+}
+footer{
+    background: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#paint{
+    color: brown;
+}
+h3{
+    color: cornsilk;
+    padding-bottom: 50px;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
